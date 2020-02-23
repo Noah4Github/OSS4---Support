@@ -32,4 +32,3 @@ Da kannst du alle Commands sehen oder du gehst [hier rein](oss4.xyz)
 
 1. SERVER_NOT_ONLINE
 2. SERVER_IP_NOT_CORRECT
-3. CHANGELOG_NOT_DEFINIED
