@@ -14,3 +14,21 @@ Als erstes musst du durch [**diesen link gehen**](https://discordapp.com/oauth2/
 * Schritt 2: Klicke auf einen Server um denn Bot da zu einladen
 * Schritt 3: Klicke dannach auf "Autorize"
 * Schritt 4: Und zum schluss Verifiziere dich, das du kein Bot bist!
+
+# Schritt 2: (Hilfe bekommen und Fehler kennen lernung)
+Jetzt6 zeigen wir dir, wie du unseren Bot um Commands bitten kannst.
+
+![image](https://cdn.discordapp.com/attachments/676574119512506435/681162187213111359/Screenshot_5.png)
+
+* Schritt 1: Du schreibst im Chat `!hilfe`.
+* Schritt 2: Dann kommt ein Embed mit den Commands.
+
+# Unsere Commands und Fehler!
+## Unsere Commands:
+Bitte schreibe in einem Channel `!hilfe`, um eine hilfe zu bekommen.
+Da kannst du alle Commands sehen oder du gehst [hier rein](oss4.xyz)
+
+## Unsere Fehler bei Commands:
+
+1. SERVER_NOT_ONLINE
+2. SERVER_IP_NOT_CORRECT
