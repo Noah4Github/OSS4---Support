@@ -9,3 +9,8 @@ kann. [**Hier kannst du bei uns auch Support bekommen.**](https://discord.gg/aYY
 Als erstes musst du durch [**diesen link gehen**](https://discordapp.com/oauth2/authorize?client_id=680791116097912863&scope=bot&permissions=2146958591), um denn bot zu deinen server einzuladen. (Du musst dich als erstes in deinen browser von DIscord einloggen).
 
 ![image](https://cdn.discordapp.com/attachments/676574119512506435/681142941728768024/Support_OSS4.png)
+
+* Schritt 1: Klicke auf die leiste wo die liste steht von servern
+* Schritt 2: Klicke auf einen Server um denn Bot da zu einladen
+* Schritt 3: Klicke dannach auf "Autorize"
+* Schritt 4: Und zum schluss Verifiziere dich, das du kein Bot bist!
