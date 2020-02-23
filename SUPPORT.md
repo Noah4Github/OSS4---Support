@@ -8,4 +8,4 @@ kann. [**Hier kannst du bei uns auch Support bekommen.**](https://discord.gg/aYY
 # Schritt 1: (Bot einladen)
 Als erstes musst du durch [**diesen link gehen**](https://discordapp.com/oauth2/authorize?client_id=680791116097912863&scope=bot&permissions=2146958591), um denn bot zu deinen server einzuladen. (Du musst dich als erstes in deinen browser von DIscord einloggen).
 
-![image](https://cdn.discordapp.com/attachments/676574119512506435/681142356262780958/Support_OSS4.png)
+![image](https://cdn.discordapp.com/attachments/676574119512506435/681142941728768024/Support_OSS4.png)
